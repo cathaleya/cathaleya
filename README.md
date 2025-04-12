@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+<!--I'm Ruslina Irianty---
+i"m a Node Runner and Crypto ethusiast
 **cathaleya/cathaleya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
